@@ -1,0 +1,3 @@
+I am trying to merge two text files.
+Combine them into one
+This is my Second file which I am intersted to merge with my first one.
